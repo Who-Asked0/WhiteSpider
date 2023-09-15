@@ -329,3 +329,11 @@ Zombie Killer;html5;https://embed.gamedistribution.com/?url=https://app-158693.g
 Online Racing Game!;https://www-yes-com.vercel.app/games/cars-master/index.html
 Chess Online;https://www.chess.com/
 Ball Hop;https://fortntie.vercel.app/play/ball-hop/
+Cyber City Driving @ Player;https://fortntie.vercel.app/play/cyber-city-driver/
+Hole.io;https://fortntie.vercel.app/play/eatio/
+Minecraft Online;https://fortntie.vercel.app/play/minecraft/
+Paper.io;https://fortntie.vercel.app/play/paperio/
+Paper Plane;https://fortntie.vercel.app/play/papery-planes/
+Rooftop Snipers;https://fortntie.vercel.app/play/rooftop-snipers-2/
+Subway Surfers;https://fortntie.vercel.app/play/subwaysurfers/
+Dirt Bike Racing;https://fortntie.vercel.app/play/x-trial-racing/
