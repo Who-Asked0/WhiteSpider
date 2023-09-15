@@ -326,13 +326,6 @@ World's Hardest Game;flash;/games/flash/worlds-hardest-game.swf
 X-Men: Children of the Atom;dos;/games/dos/x-men-children-of-the-atom.jsdos
 Yuletide Riptide;flash;/games/flash/yuletide-riptide.swf
 Zombie Killer;html5;https://embed.gamedistribution.com/?url=https://app-158693.games.s3.yandex.net/158693/2289i4hez4nkfqyo31x4l2jr4mq2lx0u/index.html
-Zombocalypse;flash;/games/flash/zombocalypse.swf
-ev.io;html5;https://www.ev.io
-hole.io;html5;https://hole-io.com
-powerline.io;html5;https://powerline.io
-slither.io;html5;https://slither.io
-snake.io;html5;https://snake.io
-venge.io;html5;https://venge.io
-voxiom.io;html5;https://voxiom.io
-wings.io;html5;https://wings.io
-zombsroyale.io;html5;https://zombsroyale.io
+Online Racing Game!;https://www-yes-com.vercel.app/games/cars-master/index.html
+Chess Online;https://www.chess.com/
+Ball Hop;https://fortntie.vercel.app/play/ball-hop/
